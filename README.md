@@ -45,3 +45,24 @@
   - **A:** If you encounter any issues during deployment, please check the logs for any error messages and ensure that Docker and Docker Compose are installed correctly on your server. Feel free to reach out to the project maintainer for assistance.
 
 **Screenshots.**
+
+## Launchin AWS EC2 instance with Windows Operating system.
+![alt text](image.png)
+
+Opening firewall rules
+
+![alt text](image-1.png)
+
+Connecting to the instance using RDP.
+
+![alt text](image-2.png)
+
+Lets provide intace domain name
+
+![alt text](image-4.png)
+![alt text](image-3.png)
+
+Let's check the result
+
+![alt text](image-5.png)
+![alt text](image-6.png)
